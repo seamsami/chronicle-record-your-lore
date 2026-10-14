@@ -1,33 +1,33 @@
-# Chronicle
+# Chronicle — Your personal universe operating system
 
-Chronicle is a storytelling museum for the digital age — a wiki-style home for lore, legends, memories, and living history.
+Chronicle is a wiki-inspired home for your imagined worlds: a personal "universe OS" for recording, organizing, and exploring the lore you invent for stories, books, games, or tabletop campaigns.
 
-It turns scattered facts into a shared, searchable archive where people can record what happened, why it mattered, and how it was remembered.
+Live demo (inspiration): https://chic-scone-a840c0.netlify.app/
 
-## Project vision
+## What Chronicle is for
 
-Chronicle is built for communities, creators, and curious minds who want to preserve stories like a living encyclopedia:
+- Record fictional characters, places, events, artifacts, and ideas.
+- Build a connected, searchable universe where entries reference and link to each other.
+- Treat your world as living data — timelines, relationships, maps, and versions.
+- Keep everything private or share selectively as the project grows.
 
-- record people, places, and events
-- write entries like a modern Wikipedia
-- connect related stories into a web of truth and myth
-- treat collective memory as a living archive
+## Quick start
 
-## Live site
+1. Create an entry (Character / Location / Event / Artifact / Concept).
+2. Add a clear title, a short summary, and structured fields (tags, timeline date, related entries).
+3. Link related pages using internal links or tags to create a web of connections.
+4. Use timelines and maps to visualize when and where things happen.
+5. Export or backup regularly so your world data stays safe.
 
-https://chic-scone-a840c0.netlify.app/
+For a full how-to, templates, and navigation tips, see GUIDE.md in this repo.
 
-## Repo purpose
+## Why Chronicle
 
-This repository is a promotional landing page and project profile for the Chronicle experience. It presents the idea behind the app and helps invite visitors to explore the live website.
+Chronicle treats your imagination as a system: structured, searchable, and extendable. Instead of scattered notes or isolated documents, Chronicle keeps your world's canon, variations, drafts, and commentary connected and discoverable.
 
-## Why Chronicle matters
+## Contributing
 
-Every community has myths, histories, rituals, and forgotten truths. Chronicle creates a space where these details can be documented, explored, and revisited — not just as private notes, but as shared civic memory.
-
-## Suggested tagline
-
-“Record your lore. Build the story. Preserve the world.”
+This repository is a promotional landing page and a project profile for Chronicle. If you'd like templates, features, or integrations (export to JSON, map support, timeline visualizer), open an issue.
 
 ## License
 
